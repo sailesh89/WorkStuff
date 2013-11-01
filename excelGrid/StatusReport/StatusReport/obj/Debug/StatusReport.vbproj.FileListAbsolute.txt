@@ -1,0 +1,10 @@
+E:\Sailesh\VSProjects\StatusReport\StatusReport\bin\StatusReport.dll
+E:\Sailesh\VSProjects\StatusReport\StatusReport\bin\StatusReport.pdb
+E:\Sailesh\VSProjects\StatusReport\StatusReport\bin\StatusReport.xml
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\ResolveAssemblyReference.cache
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\StatusReport.Resources.resources
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\GenerateResource.read.1.tlog
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\GenerateResource.write.1.tlog
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\StatusReport.dll
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\StatusReport.xml
+E:\Sailesh\VSProjects\StatusReport\StatusReport\obj\Debug\StatusReport.pdb
